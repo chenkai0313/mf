@@ -1,0 +1,7 @@
+{"level":"error","time":"2021-08-21 13:51:56","msg":"panic mysql connect error= Error 1045: Access denied for user 'test'@'172.17.0.1' (using password: YES) \n","service_name":"srv.server","category":"panicRecover","line":"/Users/ck/Documents/go/mfeng/mf/server/server.go:65"}
+{"level":"info","time":"2021-08-21 13:52:36","msg":"srv.server 服务启动成功","service_name":"srv.server","category":"srv.server","line":"/Users/ck/Documents/go/mfeng/mf/server/server.go:56"}
+{"level":"info","time":"2021-08-21 15:41:13","msg":"srv.server 服务启动成功","service_name":"srv.server","category":"srv.server","line":"/Users/ck/Documents/go/mfeng/mf/server/server.go:56"}
+{"level":"info","time":"2021-08-21 15:41:57","msg":"srv.server 服务启动成功","service_name":"srv.server","category":"srv.server","line":"/Users/ck/Documents/go/mfeng/mf/server/server.go:56"}
+{"level":"info","time":"2021-08-21 15:48:45","msg":"srv.server 服务启动成功","service_name":"srv.server","category":"srv.server","line":"/Users/ck/Documents/go/mfeng/mf/server/server.go:56"}
+{"level":"info","time":"2021-08-21 15:51:40","msg":"srv.server 服务启动成功","service_name":"srv.server","category":"srv.server","line":"/Users/ck/Documents/go/mfeng/mf/server/server.go:56"}
+{"level":"info","time":"2021-08-21 15:51:54","msg":"srv.server 服务启动成功","service_name":"srv.server","category":"srv.server","line":"/Users/ck/Documents/go/mfeng/mf/server/server.go:56"}

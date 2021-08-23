@@ -1,0 +1,30 @@
+#server
+server:
+  port: 8081
+  name: "srv.api.mf"
+  env: "dev"
+  host: "http://127.0.0.1:8081"
+  version: "latest"
+
+#consul
+consul:
+  host: "127.0.0.1"
+  port: "8500"
+
+#log_path
+log_path: "./logs/runtime"
+
+#redis
+redis:
+  hostname: "127.0.0.1"
+  database: 1
+  port: 6378
+  password: "123456"
+
+
+# api rate
+#during_time second
+#rate times
+api_request_rate:
+  during_time: 1
+  rate: 20

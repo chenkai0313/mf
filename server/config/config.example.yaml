@@ -1,0 +1,17 @@
+#server
+server:
+  name: "srv.server"
+  version: "latest"
+
+#consul
+consul:
+  host: "127.0.0.1"
+  port: "8500"
+
+#log_path
+log_path: "./logs"
+
+
+#  mysql
+mysql_db_dns: "root:123456@tcp(127.0.0.1:3306)/test?charset=utf8"
+
